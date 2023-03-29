@@ -20,7 +20,7 @@
 
     --big-font: 4.4rem;
     --h2-font: 3rem;
-    --p-font: 1.5rem;
+    --p-font: 1rem;
 }
 
 body {
@@ -538,11 +538,11 @@ body.dark {
 
 @media (max-width: 1680px) {
     header {
-        padding: 10px 4%; 
+        padding: 10px 8%; 
     }
 
     section {
-        padding: 50px 4% 40px;
+        padding: 50px 8% 40px;
     }
 }
 
@@ -558,7 +558,7 @@ body.dark {
     }
 
     section {
-        padding: 30px 4% 20px;
+        padding: 30px 6% 20px;
     }
 
     .home h1 {
